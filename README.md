@@ -1,6 +1,8 @@
-# nahrab-org-tool (working name)
+# Arkan
 
-Organizational structure & procedures documentation tool — first customer: Nahrab Gostar Eshtehard.
+Organizational structure & procedures documentation tool.
+Editions/modes: **Arkan Assist** (AI via copy/paste, no API) and **Arkan Connect** (direct API).
+First customer: Nahrab Gostar Eshtehard.
 
 **Stage:** requirements (no code yet).
 
