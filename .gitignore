@@ -1,0 +1,33 @@
+# Company documents and data must NEVER be committed
+data/
+company-data/
+docs-private/
+*.pdf
+*.docx
+*.doc
+*.xlsx
+*.xls
+*.csv
+*.jpg
+*.jpeg
+*.png
+*.db
+*.sqlite
+*.sqlite3
+.env
+*.key
+
+# Build / dependencies
+node_modules/
+dist/
+build/
+out/
+__pycache__/
+*.pyc
+.venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
